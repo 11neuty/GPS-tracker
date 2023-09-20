@@ -4,7 +4,7 @@
 
 
 ## Project Description
-This project is a GPS Tracker built using NEO-6M GPS Module and SIM800L Module. This GPS Tracker is designed to collect real-time location data and send it via cellular network (SIM card) or via Wi-Fi connection if the cellular signal is poor. 
+This project is a GPS Tracker built using NEO-6M GPS Module and SIM800L Module. This GPS Tracker is designed to collect real-time location data and send it via a cellular network (SIM card) or via a Wi-Fi connection if the cellular signal is poor. 
 
 This GPS Tracker has several key features, including:
 
@@ -25,6 +25,7 @@ This GPS Tracker has several key features, including:
 3. **Mobile App**: Download and install the provided mobile application. Connect the app with the GPS Tracker device by following the instructions provided in the app.
 
 4. **Real-Time Tracking**: You can now track the device in real-time via the mobile app. You will receive regular location updates.
+   
 
 ## Contributions
 We welcome contributions from the developer community. If you would like to contribute to this project, please follow these steps:
