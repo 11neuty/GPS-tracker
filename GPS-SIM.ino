@@ -10,8 +10,8 @@ const String FIREBASE_AUTHSIM = "Tf4m2o8FqiPUDVE3MS1rBj4aOd7rNTUBrx4ZUnax";
         
 FirebaseData firebaseData;
 FirebaseJson json;
-const char* ssid = "gojann"; //Enter SSID
-const char* password = "fatkulakbr_"; //Enter Password
+const char* ssid = "ssid"; //Enter SSID
+const char* password = "pass"; //Enter Password
 static const int RX = D2, TX = D1;
 static const int rxpin = 3, txpin = 1;
 String latitude_data;
