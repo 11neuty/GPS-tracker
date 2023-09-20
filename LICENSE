@@ -1,0 +1,3 @@
+git add LICENSE
+git commit -m "Menambahkan lisensi MIT ke repositori"
+git push origin master
